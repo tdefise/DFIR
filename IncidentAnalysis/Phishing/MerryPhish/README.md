@@ -314,8 +314,6 @@ A security solution that perform web filtering such as Web Secure Gateway or "Ne
 - Retro-hunt analysis. Also the link(s) within the website visited.
 - Static analysis of the code, a page that almost only contains "unescape()" with tons of ASCII characters is not usual.
 
-Or a Web Secure Gateway that performs those checks.
-
 ###### SIEM
 
 Performing retro-active queries within you SIEM on domain names that meet certain criterias such as:
