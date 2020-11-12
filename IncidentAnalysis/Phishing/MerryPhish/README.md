@@ -325,6 +325,7 @@ Performing retro-active queries within you SIEM on domain names that meet certai
 - Received within the mailbox of users that are being more targetted than others.
 - Within the list of mailboxes that have been publicly available on the Internet seen during OSINT exercice.
 - ....
+
 *Note that for spear phishing and whaling, some criterias listed above are not applicable*
 
 It could be easily automated, where when X out of Y conditions are meet, it raises an alert.
