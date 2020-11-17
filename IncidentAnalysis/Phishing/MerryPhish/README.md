@@ -247,6 +247,33 @@ After enumerating manually some known folders & files, I found the following pag
 
 ![](website.png)
 
+I tried to do the the following:
+- Reverse lookup of the logo pictures without result
+- Get metadata from the logo and nothing really interesting according to me
+
+> ExifTool Version Number         : 12.09<br>
+> File Name                       : logo.svg<br>
+> Directory                       : .<br>
+> File Size                       : 25 kB<br>
+> File Modification Date/Time     : 2020:11:16 13:57:29-05:00<br>
+> File Access Date/Time           : 2020:11:10 04:07:36-05:00<br>
+> File Inode Change Date/Time     : 2020:11:16 13:57:29-05:00<br>
+> File Permissions                : rw-r--r--<br>
+> File Type                       : SVG<br>
+> File Type Extension             : svg<br>
+> MIME Type                       : image/svg+xml<br>
+> SVG Version                     : 1.1<br>
+> ID                              : Layer_1<br>
+> Xmlns                           : http://www.w3.org/2000/svg<br>
+> Tag X                           : 0px<br>
+> Tag Y                           : 0px<br>
+> Image Width                     : 128<br>
+> Image Height                    : 128<br>
+> View Box                        : 0 0 128 128<br>
+> Enable-background               : new 0 0 128 128<br>
+> Image Size                      : 128x128<br>
+> Megapixels                      : 0.016<br>
+
 We can have a look at the certificate and we will see that it is signed by Cloudfare
 
 At the moment, this website is only seen as malicious by one engine on VirusTotal
